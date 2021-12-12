@@ -1,4 +1,4 @@
-package cpecmu.cpe218.sp2021.hw4.submit;
+package cpecmu.cpe218.sp2022.hw3.submit;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.Set;
 
-import cpecmu.cpe218.sp2021.hw4.InheritanceDivision;
+import cpecmu.cpe218.sp2022.hw3.InheritanceDivision;
 
 public class InheritanceDivisionImpl implements InheritanceDivision {
 
